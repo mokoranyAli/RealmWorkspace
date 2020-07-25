@@ -100,8 +100,8 @@
 		8764BF5B24C9AFA7000474B3 /* RealmWorkspace */ = {
 			isa = PBXGroup;
 			children = (
-				8764BF7624CA6320000474B3 /* RealmTry2 */,
-				8764BF7024C9B4C5000474B3 /* RealmTry1 */,
+				8764BF7624CA6320000474B3 /* RealmWorkspace1 */,
+				8764BF7024C9B4C5000474B3 /* RealmWorkspace */,
 				8764BF5C24C9AFA8000474B3 /* AppDelegate.swift */,
 				8764BF5E24C9AFA8000474B3 /* SceneDelegate.swift */,
 				8764BF6024C9AFA8000474B3 /* ViewController.swift */,
@@ -113,24 +113,16 @@
 			path = RealmWorkspace;
 			sourceTree = "<group>";
 		};
-		8764BF7024C9B4C5000474B3 /* RealmTry1 */ = {
-			isa = PBXGroup;
-			children = (
-				8764BF7124C9B4CF000474B3 /* First try */,
-			);
-			path = RealmTry1;
-			sourceTree = "<group>";
-		};
-		8764BF7124C9B4CF000474B3 /* First try */ = {
+		8764BF7024C9B4C5000474B3 /* RealmWorkspace */ = {
 			isa = PBXGroup;
 			children = (
 				8764BF7224C9B4EC000474B3 /* DataManger1.swift */,
 				8764BF7424C9B553000474B3 /* DataMangerProtocol.swift */,
 			);
-			path = "First try";
+			path = RealmWorkspace;
 			sourceTree = "<group>";
 		};
-		8764BF7624CA6320000474B3 /* RealmTry2 */ = {
+		8764BF7624CA6320000474B3 /* RealmWorkspace1 */ = {
 			isa = PBXGroup;
 			children = (
 				8764BF8924CC7BED000474B3 /* Provider */,
@@ -140,7 +132,7 @@
 				8764BF7724CA6344000474B3 /* Mangers */,
 				8764BF8724CC684F000474B3 /* DataViewModel.swift */,
 			);
-			path = RealmTry2;
+			path = RealmWorkspace1;
 			sourceTree = "<group>";
 		};
 		8764BF7724CA6344000474B3 /* Mangers */ = {
